@@ -4,7 +4,7 @@ import java.io.*;
 
 class Client
 {
-  public static void main(String arg[]) throws Exception
+  public static void main(String arg[]) throws Exception      
 {
 System.out.println("Client application is running...");
 String s1,s2;
